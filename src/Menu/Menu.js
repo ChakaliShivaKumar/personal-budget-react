@@ -8,6 +8,7 @@ function Menu() {
     aria-label="Main menu"
     itemScope
     itemType ='https://schema.org/SiteNavigationElement'
+    className="menu"
     >
     <ul>
       <li><Link itemProp="url" to="./" title="Homepage">Home</Link></li>
